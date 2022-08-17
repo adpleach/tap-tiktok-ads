@@ -16,7 +16,6 @@ AUCTION_FIELDS = """[
     "adgroup_name",
     "campaign_id",
     "campaign_name",
-    "placement",
     "spend",
     "cpc",
     "cpm",
