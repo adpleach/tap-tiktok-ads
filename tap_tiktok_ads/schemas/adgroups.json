@@ -35,18 +35,6 @@
         "string"
       ]
     },
-    "placement": {
-      "type": [
-        "null",
-        "array"
-      ],
-      "items": {
-        "type": [
-          "null",
-          "string"
-        ]
-      }
-    },
     "enable_inventory_filter": {
       "type": [
         "null",

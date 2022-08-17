@@ -60,12 +60,6 @@
         "string"
       ]
     },
-    "placement": {
-      "type": [
-        "null",
-        "string"
-      ]
-    },
     "spend": {
       "type": [
         "null",
